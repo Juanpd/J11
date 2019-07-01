@@ -1,0 +1,10 @@
+	COMANDOS GIT
+____________________________________
+
+git config --global user.name "juanpd"
+git config --global user.email juanpd@gmail.com
+git conifig --list
+git clone url
+git clone 
+cd (ubicacion del archivo)
+git add (nombre del archivo)
